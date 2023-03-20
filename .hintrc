@@ -1,0 +1,26 @@
+@SpaYco
+SpaYco Add "inline-style-disabled" Hint (#139)
+Latest commit 2034913 Mar 23, 2021
+History
+2 contributors
+@SpaYco
+@MauricioRobayo
+18 lines (18 sloc) 338 Bytes
+{
+  "connector": {
+    "name": "local",
+    "options": {
+      "pattern": ["**", "!.git/**", "!node_modules/**"]
+    }
+  },
+  "extends": ["development"],
+  "formatters": ["stylish"],
+  "hints": [
+    "button-type",
+    "disown-opener",
+    "html-checker",
+    "meta-charset-utf-8",
+    "meta-viewport",
+    "no-inline-styles:error"
+  ]
+}
