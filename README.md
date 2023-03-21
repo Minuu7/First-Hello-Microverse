@@ -1,7 +1,3 @@
-# first-
-Hello
-logo
-Microverse README Template
 📗 Table of Contents
 
     📖 About the Project
@@ -24,11 +20,11 @@ Microverse README Template
     ❓ FAQ (OPTIONAL)
     📝 License
 
-📖 [First-Hello-Microverse]
+📖 [your_project_name]
 
-    It's my first project on Microverse.
-
-[First-Hello-Microverse] is a...
+    Describe your project in 1 or 2 sentences.
+This is my project on microverse and let's see do more in future.
+[your_project__name] is a...
 🛠 Built With
 Tech Stack
 
@@ -86,12 +82,24 @@ You can deploy this project using:
 
     GitHub: @Minuu7
     Twitter: @minhaz_uddin_
-    LinkedIn: Minhaz Uddin
+    LinkedIn: Minhaz Udddin 
 
+👤 Author2
+
+    GitHub: @githubhandle
+    Twitter: @twitterhandle
+    LinkedIn: LinkedIn
 
 (back to top)
 🔭 Future Features
 
+    Describe 1 - 3 features you will add to the project.
+
+    [new_feature_1]
+    [new_feature_2]
+    [new_feature_3]
+
+(back to top)
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -101,27 +109,27 @@ Feel free to check the issues page.
 (back to top)
 ⭐️ Show your support
 
-    Trying my best update my knowledge.
+    Write a message to encourage readers to support your project
 
 If you like this project...
 
 (back to top)
 🙏 Acknowledgments
 
-Thanks to all who have supported me.
+    Give credit to everyone who inspired your codebase.
 
-I would like to thank Microverse and my family.
+I would like to thank...
 
 (back to top)
 ❓ FAQ (OPTIONAL)
 
     Add at least 2 questions new developers would ask when they decide to use your project.
 
-    [Can I use your project?]
-        [Yes,Of coure!]
+    [Question_1]
+        [Answer_1]
 
-    [How long it took to complete the project?]
-        [30 min]
+    [Question_2]
+        [Answer_2]
 
 (back to top)
 📝 License
